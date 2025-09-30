@@ -1,8 +1,8 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
-## Problem Title
+# Date:30.09.2025
+## Register Number:25016000
+## Name:S.Sriram arun
+## Problem Title:SIH Problem
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
 A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.
@@ -41,28 +41,33 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+“We propose a mobile/web platform that helps farmers predict crop yield and optimize fertilizer usage using satellite data and AI-based recommendations.”
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Technologies to be used: programming languages, frameworks, APIs, or hardware (e.g., Python, Node.js, Flutter, Arduino, IoT sensors, etc.)
+
+Methodology: How you’ll implement the solution step-by-step.
+
+Flowcharts/Diagrams/Prototype: Add a small diagram or screenshot showing your app’s structure or workflow (optional but impressive).
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Explain why your idea is practical and how it can be implemented at scale:
+
+Analysis: Why the solution is feasible with current tech/resources.
+
+Potential impact: Who benefits and how (e.g., farmers, govt., consumers).
+
+Challenges: Mention risks and how you’ll handle them.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Environmental impact (less pesticide, less waste).
+
+Economic benefits (increased income, reduced costs).
+
+Social benefits (improved quality of life).
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+References:
+- Ministry of Agriculture & Farmers Welfare, 2023 – https://agricoop.nic.in/
+- FAO Precision Agriculture Report, 2022 – https://fao.org/...
+- Research Paper: ‘IoT Based Smart Farming’, 2021 – IEEE Xplore
